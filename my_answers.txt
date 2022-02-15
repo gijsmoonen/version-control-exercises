@@ -1,3 +1,8 @@
 onzin
+<<<<<<< HEAD
 local test 
 save changes
+=======
+nieuwe lijnen toevoegen
+jwz
+>>>>>>> d28563580e9dcb1b01014c20b1579445f344a50b
